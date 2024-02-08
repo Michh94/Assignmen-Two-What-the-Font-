@@ -1,0 +1,62 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header h1, header h2 {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(244, 7, 177);
+}
+
+h2 {
+    color: purple;
+}
+
+article p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+section1 {
+    color: rgb(235, 247, 13);
+}
+section2 {
+    color: pink;
+}
+section3 {
+    color: purple;
+}
+section4 {
+    color: blueviolet;
+}
+section5 {
+    color: blue;
+}
+section6 {
+    color: rgb(56, 116, 161);
+}
+section7 {
+    color: rgb(174, 36, 149);
+}
+section8 {
+    color: rgb(43, 181, 167);
+}
+section9 {
+    color: rgb(247, 227, 13);
+}
+section10{
+    color: rgb(89, 201, 164);
+}
